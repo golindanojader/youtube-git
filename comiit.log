@@ -1,0 +1,193 @@
+commit bffa41af83fe29e0ae581961ab74aa0e0fb8be5b
+Merge: 689fa44 eeef3bb
+Author: jagol <golindano.jader@gmail.com>
+Date:   Fri Feb 10 09:52:54 2023 -0400
+
+    Merge pull request #1 from mrvader1577/readme-amerike
+    
+    Readme amerike
+
+commit eeef3bb92ea0280bc18745d79ea8f61550d9c9db
+Author: mrvader1577 <jhondoe012023@gmail.com>
+Date:   Fri Feb 10 09:43:40 2023 -0400
+
+    Haciendo mejoras el readme del repositorio
+
+commit 8b95a23985b3b5213b0148498080589483bd472b
+Author: mrvader1577 <jhondoe012023@gmail.com>
+Date:   Fri Feb 10 08:59:50 2023 -0400
+
+    Asignado informacion desde la 2da cta
+
+commit 689fa445ed13fc1d5f5d45366aa0a86833fa2217
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 14:21:12 2023 -0400
+
+    Agregando imagen de flujo Git
+
+commit 9bf745e172d7920733f32f766dff87fae257c815
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 13:56:01 2023 -0400
+
+    v1.0.0
+
+commit 6d70fbd71ce9c666aaf82b5d5e1efb1c15b83f86
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 11:44:03 2023 -0400
+
+    Agregando archivo .log
+
+commit e787d8be492c5a0b787eff0dd2528ff38879e105
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 11:19:42 2023 -0400
+
+    Agregando archivos de historial
+
+commit 7aad02f0944fe528a2d273d06088322d635050f6
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 10:47:38 2023 -0400
+
+    Agregando 5to parrafo
+
+commit 092486e2d293a717eb234ae11a6feb6f438449c6
+Merge: 1a057a9 bc2e4c6
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 10:34:50 2023 -0400
+
+    Merge branch 'main' of https://github.com/golindanojader/youtube-git
+
+commit 1a057a90602031a89c5e1653f0acb8da4e384f64
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 09:34:41 2023 -0400
+
+    Agregando parrafos
+
+commit bc2e4c6e53878efd83e3e6e96b82b2eb6342f021
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 09:34:41 2023 -0400
+
+    Agregando parrafos
+
+commit 66e8d8e1d8c28e92a1e8d33fa3e180b3a99588a0
+Merge: ff44b4f d0cdf7a
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 9 09:17:08 2023 -0400
+
+    resolviendo conflictos en staciones del año con fechas de inicio
+
+commit ff44b4fb288fe7a4e0ad1309f396af5c1ab9eb41
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 11:24:59 2023 -0400
+
+    Agregando estaciones de año con fecha de inicio
+
+commit d0cdf7a7adf2fe804c22edddc7278e43e58e51e5
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 11:24:59 2023 -0400
+
+    Agregando las estaciones del ño
+
+commit 4d61ea309a5e26d988eac8763080d15833946ede
+Merge: 7b53dcd 56bc177
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 09:10:34 2023 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 56bc1770d3f78b108bbb08b79854ec0b1e29a5d1
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 09:00:00 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 7b53dcd0c472444e7992094f240eb8fd24dfbf5e
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 08:56:50 2023 -0400
+
+    Agregando style.css al index.html
+
+commit 79da90bbbdfce4e0fcc77ef26b09404928d21ddf
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 08:47:55 2023 -0400
+
+    Agrando mas contenido
+
+commit d3fededd0327c2cc8d707896fb05702eeaaabff7
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 08:37:46 2023 -0400
+
+    Agregando style.css al index.html
+
+commit cfba29f9e130b0704d41a71f6a500d6ea05cde2a
+Merge: 1179360 1c29112
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Wed Feb 8 08:12:47 2023 -0400
+
+    Merge branch 'js'
+
+commit 1c29112284674f9c12a25cde2a9d54669980fe22
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 14:03:53 2023 -0400
+
+    Creando index js
+
+commit 1179360f9185d919afae0f58fc1f1d1c8f924169
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 13:58:27 2023 -0400
+
+    Style css
+
+commit bce277276e59a04491985db5c685c29d1c6cd25c
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 13:52:05 2023 -0400
+
+    Creando archivo index.html
+
+commit d297e2b727f6344a33c260129fc3909f70668091
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 11:14:16 2023 -0400
+
+    Ignorando .exe
+
+commit f47a1bdc60b8be09afd05a7d24ba82edd7a64e6a
+Merge: 69fa9fa fd893bf
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 09:40:34 2023 -0400
+
+    Merge branch 'main' of https://github.com/golindanojader/youtube-git
+
+commit fd893bf6bf7208ec27b445f702619d900708c3db
+Author: jagol <golindano.jader@gmail.com>
+Date:   Tue Feb 7 09:36:14 2023 -0400
+
+    Creando licencia de repositorio
+
+commit 69fa9fac4ca981296689593e99aaaa96e24e321e
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 09:25:25 2023 -0400
+
+    Agregando mas contenido
+
+commit 76ad5c5acfdeb42727105a4d21b2c50934b74dae
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Tue Feb 7 09:24:35 2023 -0400
+
+    Agregando mas contenido
+
+commit 5e23fff502872ffb0edf02fb21fb4a50bba6be68
+Author: golindanojader <golindano.jader@gmail.com>
+Date:   Thu Feb 2 08:15:03 2023 -0400
+
+    Agregando mas contenido
+
+commit 083edc591aebe0a284501584e892a0983a691183
+Author: Backend_771 <contacto@jadergolindano.com.ve>
+Date:   Thu Feb 2 07:39:19 2023 -0400
+
+    Agregando contenido inicial al Readme
+
+commit 319a6b98832eafe1fb6910733312ee98a86e301d
+Author: Backend_771 <contacto@jadergolindano.com.ve>
+Date:   Wed Feb 1 16:02:49 2023 -0400
+
+    Primer commt =D

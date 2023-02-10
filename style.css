@@ -18,5 +18,11 @@ a:hover{
 
 img {
 
-    max-width: 100%;
+    max-width: 10%;
+}
+
+
+h1{
+
+    margin-top: 25px;
 }
